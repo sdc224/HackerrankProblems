@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STL Programs\maps-stl.cpp">
+    <ClCompile Include="STL Programs\PrintPretty.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
