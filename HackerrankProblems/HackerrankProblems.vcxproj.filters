@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STL Programs\deque-stl.cpp">
+    <ClCompile Include="DebuggingProblems\HotelPrices.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
