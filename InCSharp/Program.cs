@@ -15,6 +15,7 @@ namespace InCSharp
     using System.Text;
 
     using InCSharp.Practice.Algorithms.Greedy;
+    using InCSharp.Practice.Algorithms.Implementation;
 
     /// <summary>
     /// The program.
@@ -29,7 +30,8 @@ namespace InCSharp
         /// </param>
         public static void Main(string[] args)
         {
-            BeautifulPairs.Solution(args);
+            // BeautifulPairs.Solution(args);
+            FindDigits.Solution(args);
         }
     }
 }

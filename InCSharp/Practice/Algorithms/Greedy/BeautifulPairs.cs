@@ -59,7 +59,7 @@ namespace InCSharp.Practice.Algorithms.Greedy
         private static int FindNoOfBeautifulPairs(IReadOnlyCollection<int> a, IEnumerable<int> b)
         {
             var noOfBeautifulPairs = 0;
-            var newArray = new int[1000];
+            var newArray = new int[1001];
 
             foreach (var t in a)
             {
